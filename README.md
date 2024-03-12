@@ -2,7 +2,7 @@
 <h1>Hi 👋, I'm Safae BERRICHI </h1>
 <h3 align="center">Student  🧑‍💻| Data Science 📈|Well-being 🚀| A coffee adict  ☕ </h3>
 
-- 🔭 I’m currently studying on  : I am in my 3rd year preparing for my engineering degree 
+- 🔭 I’m currently studying in  : my 3rd year preparing for my engineering degree 
 - 🌱 I’m currently learning **Web developpement** 
 
 - 💬 Ask me about **Anything**
